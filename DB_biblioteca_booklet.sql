@@ -12,4 +12,3 @@ CONSTRAINT pk_libro PRIMARY KEY (id)
 
 );
 
-select * from libro where titulo = "el señor de los anillos"
